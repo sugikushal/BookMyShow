@@ -36,4 +36,15 @@
     3. Initiate refund on cancellation
     4. Notification
 
+## Where to apply design patterns
 
+1. Singleton
+    - MovieBookingManager EventBookingManager 
+    - Logging
+
+2. Observer
+    - When someone else is selecting seats, notify all the users viewing the seat layout
+
+## UML Class Diagram
+
+![image info](./images/MovieBooking.png)
